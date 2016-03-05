@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[lonsdales]]></title>
+        <description><![CDATA[lonsdales]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 05 Mar 2016 00:57:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Terence and Snow Cat]]></title>
+            <description><![CDATA[<article><h1>Terence and Snow Cat</h1><p>It All Started in New Zealand February 2005</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a290f20bfe26e49b55e657d1efc833d603cc334.jpg"></article>]]></description>
+            <link>undefined84144158-0bc3-454f-a974-a25bad74d33c/index.html</link>
+            <guid isPermaLink="false">84144158-0bc3-454f-a974-a25bad74d33c</guid>
+            <pubDate>Sat, 05 Mar 2016 00:56:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
